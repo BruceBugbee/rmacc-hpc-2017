@@ -1,0 +1,206 @@
+"","id","make","model","year","class","trans","drive","cyl","displ","fuel","hwy","cty"
+"1",34839,"Acura","RDX 2WD",2015,"Small Sport Utility Vehicle 2WD","Automatic (S6)","Front-Wheel Drive",6,3.5,"Premium",28,20
+"2",34843,"Acura","RDX 4WD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","All-Wheel Drive",6,3.5,"Premium",27,19
+"3",34771,"Audi","A3",2015,"Subcompact Cars","Auto(AM-S6)","Front-Wheel Drive",4,2,"Premium",33,23
+"4",34710,"Audi","A3 quattro",2015,"Subcompact Cars","Auto(AM-S6)","All-Wheel Drive",4,1.8,"Premium",33,24
+"5",34925,"Audi","A8",2015,"Midsize Cars","Automatic (S8)","All-Wheel Drive",8,4,"Premium",30,18
+"6",34926,"Audi","A8",2015,"Midsize Cars","Automatic (S8)","All-Wheel Drive",6,3,"Premium",29,19
+"7",34928,"Audi","A8 L",2015,"Large Cars","Automatic (S8)","All-Wheel Drive",8,4,"Premium",29,18
+"8",34929,"Audi","A8 L",2015,"Large Cars","Automatic (S8)","All-Wheel Drive",12,6.3,"Premium",22,14
+"9",34930,"Audi","A8 L",2015,"Large Cars","Automatic (S8)","All-Wheel Drive",6,3,"Diesel",36,24
+"10",34931,"Audi","A8 L",2015,"Large Cars","Automatic (S8)","All-Wheel Drive",6,3,"Premium",29,19
+"11",34924,"Audi","S8",2015,"Midsize Cars","Automatic (S8)","All-Wheel Drive",8,4,"Premium",27,17
+"12",34664,"Audi","TT Coupe quattro",2015,"Subcompact Cars","Auto(AM-S6)","All-Wheel Drive",4,2,"Premium",31,22
+"13",34663,"Audi","TT Roadster quattro",2015,"Two Seaters","Auto(AM-S6)","All-Wheel Drive",4,2,"Premium",31,22
+"14",34851,"BMW","428i Convertible",2015,"Subcompact Cars","Automatic (S8)","Rear-Wheel Drive",4,2,"Premium",34,23
+"15",34893,"BMW","428i Gran Coupe",2015,"Compact Cars","Automatic (S8)","Rear-Wheel Drive",4,2,"Premium",34,23
+"16",34872,"BMW","435i Gran Coupe",2015,"Compact Cars","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",32,21
+"17",34853,"BMW","528i",2015,"Midsize Cars","Automatic (S8)","Rear-Wheel Drive",4,2,"Premium",34,23
+"18",34869,"BMW","640i Convertible",2015,"Subcompact Cars","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",31,20
+"19",34852,"BMW","640i Coupe",2015,"Subcompact Cars","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",32,21
+"20",34873,"BMW","640i Gran Coupe",2015,"Compact Cars","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",31,20
+"21",34871,"BMW","640i xDrive Convertible",2015,"Subcompact Cars","Automatic (S8)","All-Wheel Drive",6,3,"Premium",29,20
+"22",34870,"BMW","640i xDrive Coupe",2015,"Subcompact Cars","Automatic (S8)","All-Wheel Drive",6,3,"Premium",29,20
+"23",34874,"BMW","640i xDrive Gran Coupe",2015,"Compact Cars","Automatic (S8)","All-Wheel Drive",6,3,"Premium",29,20
+"24",34903,"BMW","650i Convertible",2015,"Subcompact Cars","Automatic (S8)","Rear-Wheel Drive",8,4.4,"Premium",25,17
+"25",34902,"BMW","650i Coupe",2015,"Subcompact Cars","Automatic (S8)","Rear-Wheel Drive",8,4.4,"Premium",25,17
+"26",34908,"BMW","650i Gran Coupe",2015,"Compact Cars","Automatic (S8)","Rear-Wheel Drive",8,4.4,"Premium",25,17
+"27",34881,"BMW","650i xDrive Convertible",2015,"Subcompact Cars","Automatic (S8)","All-Wheel Drive",8,4.4,"Premium",24,16
+"28",34880,"BMW","650i xDrive Coupe",2015,"Subcompact Cars","Automatic (S8)","All-Wheel Drive",8,4.4,"Premium",25,16
+"29",34882,"BMW","650i xDrive Gran Coupe",2015,"Compact Cars","Automatic (S8)","All-Wheel Drive",8,4.4,"Premium",24,16
+"30",34877,"BMW","740Ld xDrive",2015,"Large Cars","Automatic (S8)","All-Wheel Drive",6,3,"Diesel",31,23
+"31",34883,"BMW","Alpina B6 Gran Coupe xDrive",2015,"Compact Cars","Automatic (S8)","All-Wheel Drive",8,4.4,"Premium",24,16
+"32",34906,"BMW","M6 Convertible",2015,"Subcompact Cars","Manual 6-spd","Rear-Wheel Drive",8,4.4,"Premium",22,15
+"33",34907,"BMW","M6 Convertible",2015,"Subcompact Cars","Auto(AM-S7)","Rear-Wheel Drive",8,4.4,"Premium",20,14
+"34",34904,"BMW","M6 Coupe",2015,"Subcompact Cars","Manual 6-spd","Rear-Wheel Drive",8,4.4,"Premium",22,15
+"35",34905,"BMW","M6 Coupe",2015,"Subcompact Cars","Auto(AM-S7)","Rear-Wheel Drive",8,4.4,"Premium",20,14
+"36",34909,"BMW","M6 Gran Coupe",2015,"Compact Cars","Manual 6-spd","Rear-Wheel Drive",8,4.4,"Premium",22,15
+"37",34910,"BMW","M6 Gran Coupe",2015,"Compact Cars","Auto(AM-S7)","Rear-Wheel Drive",8,4.4,"Premium",20,14
+"38",34854,"BMW","X1 sDrive28i",2015,"Large Cars","Automatic (S8)","Rear-Wheel Drive",4,2,"Premium",34,23
+"39",34833,"BMW","X1 xDrive28i",2015,"Large Cars","Automatic (S8)","All-Wheel Drive",4,2,"Premium",32,22
+"40",34834,"BMW","X1 xDrive35i",2015,"Large Cars","Automatic (S6)","All-Wheel Drive",6,3,"Premium",27,18
+"41",34835,"BMW","X3 sDrive 28i",2015,"Large Cars","Automatic (S8)","Rear-Wheel Drive",4,2,"Premium",28,21
+"42",34887,"BMW","X3 xDrive28d",2015,"Small Sport Utility Vehicle 4WD","Automatic (S8)","All-Wheel Drive",4,2,"Diesel",34,27
+"43",34844,"BMW","X3 xDrive28i",2015,"Small Sport Utility Vehicle 4WD","Automatic (S8)","All-Wheel Drive",4,2,"Premium",28,21
+"44",34845,"BMW","X3 xDrive35i",2015,"Small Sport Utility Vehicle 4WD","Automatic (S8)","All-Wheel Drive",6,3,"Premium",26,19
+"45",34795,"BMW","Z4 sDrive28i",2015,"Two Seaters","Automatic (S8)","Rear-Wheel Drive",4,2,"Premium",33,22
+"46",34796,"BMW","Z4 sDrive28i",2015,"Two Seaters","Manual 6-spd","Rear-Wheel Drive",4,2,"Premium",34,22
+"47",34797,"BMW","Z4 sDrive35i",2015,"Two Seaters","Manual 6-spd","Rear-Wheel Drive",6,3,"Premium",26,19
+"48",34798,"BMW","Z4 sDrive35i",2015,"Two Seaters","Auto(AM-S7)","Rear-Wheel Drive",6,3,"Premium",24,17
+"49",34799,"BMW","Z4 sDrive35is",2015,"Two Seaters","Auto(AM-S7)","Rear-Wheel Drive",6,3,"Premium",24,17
+"50",34810,"Bentley","Continental GT",2015,"Compact Cars","Automatic (S8)","All-Wheel Drive",8,4,"Premium",25,15
+"51",34923,"Bentley","Continental GT",2015,"Compact Cars","Automatic (S8)","All-Wheel Drive",12,6,"Premium or E85",21,12
+"52",34809,"Bentley","Continental GT Convertible",2015,"Subcompact Cars","Automatic (S8)","All-Wheel Drive",8,4,"Premium",24,14
+"53",34922,"Bentley","Continental GT Convertible",2015,"Subcompact Cars","Automatic (S8)","All-Wheel Drive",12,6,"Premium or E85",20,12
+"54",34829,"Bentley","Flying Spur",2015,"Midsize Cars","Automatic (S8)","All-Wheel Drive",8,4,"Premium",24,14
+"55",34927,"Bentley","Flying Spur",2015,"Midsize Cars","Automatic (S8)","All-Wheel Drive",12,6,"Premium or E85",20,12
+"56",34894,"Bentley","Mulsanne",2015,"Midsize Cars","Automatic (S8)","Rear-Wheel Drive",8,6.8,"Premium",18,11
+"57",34679,"Cadillac","Escalade 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,6.2,"Regular",21,15
+"58",34687,"Cadillac","Escalade 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,6.2,"Regular",21,14
+"59",34680,"Cadillac","Escalade ESV 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,6.2,"Regular",21,15
+"60",34688,"Cadillac","Escalade ESV 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,6.2,"Regular",20,14
+"61",34674,"Chevrolet","Silverado C15 2WD",2015,"Standard Pickup Trucks 2WD","Automatic 6-spd","Rear-Wheel Drive",8,5.3,"Gasoline or E85",23,16
+"62",34676,"Chevrolet","Silverado K15 4WD",2015,"Standard Pickup Trucks 4WD","Automatic 6-spd","4-Wheel Drive",8,5.3,"Gasoline or E85",22,16
+"63",34891,"Chevrolet","Spark",2015,"Subcompact Cars","Automatic (variable gear ratios)","Front-Wheel Drive",4,1.2,"Regular",39,30
+"64",34892,"Chevrolet","Spark",2015,"Subcompact Cars","Manual 5-spd","Front-Wheel Drive",4,1.2,"Regular",39,31
+"65",34682,"Chevrolet","Suburban C1500 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,5.3,"Gasoline or E85",23,16
+"66",34690,"Chevrolet","Suburban K1500 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,5.3,"Gasoline or E85",22,15
+"67",34681,"Chevrolet","Tahoe C1500 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,5.3,"Gasoline or E85",23,16
+"68",34689,"Chevrolet","Tahoe K1500 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,5.3,"Gasoline or E85",22,16
+"69",34830,"Chrysler","200",2015,"Midsize Cars","Automatic 9-spd","Front-Wheel Drive",4,2.4,"Regular",36,23
+"70",34831,"Chrysler","200",2015,"Midsize Cars","Automatic 9-spd","Front-Wheel Drive",6,3.6,"Regular",32,19
+"71",34777,"Chrysler","200 AWD",2015,"Midsize Cars","Automatic 9-spd","All-Wheel Drive",6,3.6,"Regular",29,18
+"72",34932,"Ford","Taurus FWD FFV",2015,"Large Cars","Automatic (S6)","Front-Wheel Drive",6,3.5,"Gasoline or E85",29,19
+"73",34675,"GMC","Sierra C15 2WD",2015,"Standard Pickup Trucks 2WD","Automatic 6-spd","Rear-Wheel Drive",8,5.3,"Gasoline or E85",23,16
+"74",34677,"GMC","Sierra K15 4WD",2015,"Standard Pickup Trucks 4WD","Automatic 6-spd","4-Wheel Drive",8,5.3,"Gasoline or E85",22,16
+"75",34683,"GMC","Yukon C1500 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,6.2,"Regular",21,15
+"76",34685,"GMC","Yukon C1500 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,5.3,"Gasoline or E85",23,16
+"77",34684,"GMC","Yukon C1500 XL 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,6.2,"Regular",21,15
+"78",34686,"GMC","Yukon C1500 XL 2WD",2015,"Standard Sport Utility Vehicle 2WD","Automatic 6-spd","Rear-Wheel Drive",8,5.3,"Gasoline or E85",23,16
+"79",34692,"GMC","Yukon K1500 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,6.2,"Regular",21,14
+"80",34694,"GMC","Yukon K1500 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,5.3,"Gasoline or E85",22,16
+"81",34691,"GMC","Yukon K1500 XL 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,6.2,"Regular",20,14
+"82",34693,"GMC","Yukon K1500 XL 4WD",2015,"Standard Sport Utility Vehicle 4WD","Automatic 6-spd","4-Wheel Drive",8,5.3,"Gasoline or E85",22,15
+"83",34836,"Honda","Fit",2015,"Small Station Wagons","Auto(AV-S7)","Front-Wheel Drive",4,1.5,"Regular",38,32
+"84",34837,"Honda","Fit",2015,"Small Station Wagons","Manual 6-spd","Front-Wheel Drive",4,1.5,"Regular",37,29
+"85",34855,"Honda","Fit",2015,"Small Station Wagons","Automatic (variable gear ratios)","Front-Wheel Drive",4,1.5,"Regular",41,33
+"86",34895,"Hyundai","Equus",2015,"Large Cars","Automatic 8-spd","Rear-Wheel Drive",8,5,"Premium",23,15
+"87",34768,"Hyundai","Genesis AWD",2015,"Large Cars","Automatic 8-spd","All-Wheel Drive",6,3.8,"Regular",25,16
+"88",34767,"Hyundai","Genesis RWD",2015,"Large Cars","Automatic 8-spd","Rear-Wheel Drive",6,3.8,"Regular",29,18
+"89",34769,"Hyundai","Genesis RWD",2015,"Large Cars","Automatic 8-spd","Rear-Wheel Drive",8,5,"Premium",23,15
+"90",34913,"Infiniti","QX50",2015,"Small Station Wagons","Automatic (S7)","Rear-Wheel Drive",6,3.7,"Premium",25,17
+"91",34914,"Infiniti","QX50 AWD",2015,"Small Station Wagons","Automatic (S7)","All-Wheel Drive",6,3.7,"Premium",24,17
+"92",34917,"Infiniti","QX70 AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S7)","All-Wheel Drive",6,3.7,"Premium",22,16
+"93",34916,"Infiniti","QX70 RWD",2015,"Small Sport Utility Vehicle 2WD","Automatic (S7)","Rear-Wheel Drive",6,3.7,"Premium",24,17
+"94",34702,"Jaguar","F-Type Convertible",2015,"Two Seaters","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",28,20
+"95",34703,"Jaguar","F-Type Coupe",2015,"Two Seaters","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",28,20
+"96",34701,"Jaguar","F-Type R Coupe",2015,"Two Seaters","Automatic (S8)","Rear-Wheel Drive",8,5,"Premium",23,16
+"97",34704,"Jaguar","F-Type S Convertible",2015,"Two Seaters","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",27,19
+"98",34705,"Jaguar","F-Type S Coupe",2015,"Two Seaters","Automatic (S8)","Rear-Wheel Drive",6,3,"Premium",27,19
+"99",34700,"Jaguar","F-Type V8 S Convertible",2015,"Two Seaters","Automatic (S8)","Rear-Wheel Drive",8,5,"Premium",23,16
+"100",34712,"Jaguar","XF",2015,"Midsize Cars","Automatic (S8)","Rear-Wheel Drive",8,5,"Premium",23,15
+"101",34713,"Jaguar","XJ",2015,"Large Cars","Automatic (S8)","Rear-Wheel Drive",8,5,"Premium",23,15
+"102",34714,"Jaguar","XJL",2015,"Large Cars","Automatic (S8)","Rear-Wheel Drive",8,5,"Premium",23,15
+"103",34706,"Jaguar","XK",2015,"Minicompact Cars","Automatic (S6)","Rear-Wheel Drive",8,5,"Premium",24,16
+"104",34708,"Jaguar","XK",2015,"Minicompact Cars","Automatic (S6)","Rear-Wheel Drive",8,5,"Premium",22,15
+"105",34707,"Jaguar","XK Convertible",2015,"Minicompact Cars","Automatic (S6)","Rear-Wheel Drive",8,5,"Premium",22,16
+"106",34709,"Jaguar","XK Convertible",2015,"Minicompact Cars","Automatic (S6)","Rear-Wheel Drive",8,5,"Premium",22,15
+"107",34896,"Kia","Cadenza",2015,"Large Cars","Automatic 6-spd","Front-Wheel Drive",6,3.3,"Regular",28,19
+"108",34649,"Kia","K900",2015,"Large Cars","Automatic 8-spd","Rear-Wheel Drive",6,3.8,"Regular",27,18
+"109",34650,"Kia","K900",2015,"Large Cars","Automatic 8-spd","Rear-Wheel Drive",8,5,"Premium",23,15
+"110",34912,"Kia","Optima",2015,"Midsize Cars","Automatic (S6)","Front-Wheel Drive",4,2,"Regular",31,20
+"111",34655,"Kia","Sorento AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic 6-spd","All-Wheel Drive",4,2.4,"Regular",25,19
+"112",34656,"Kia","Sorento AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic 6-spd","All-Wheel Drive",6,3.3,"Regular",24,18
+"113",34651,"Kia","Sorento FWD",2015,"Small Sport Utility Vehicle 2WD","Automatic 6-spd","Front-Wheel Drive",6,3.3,"Regular",25,18
+"114",34678,"Kia","Sorento FWD",2015,"Small Sport Utility Vehicle 2WD","Automatic 6-spd","Front-Wheel Drive",4,2.4,"Regular",27,20
+"115",34921,"Lamborghini","Huracan",2015,"Two Seaters","Auto(AM-S7)","All-Wheel Drive",10,5.2,"Premium",20,14
+"116",34900,"Land Rover","LR2",2015,"Small Sport Utility Vehicle 4WD","Automatic (S9)","4-Wheel Drive",4,2,"Premium",24,17
+"117",34778,"Lexus","RX 350",2015,"Small Sport Utility Vehicle 2WD","Automatic (S6)","Front-Wheel Drive",6,3.5,"Regular",25,18
+"118",34780,"Lexus","RX 350 AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S8)","All-Wheel Drive",6,3.5,"Regular",26,18
+"119",34781,"Lexus","RX 350 AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","All-Wheel Drive",6,3.5,"Regular",24,18
+"120",34779,"Lexus","RX 450h",2015,"Small Sport Utility Vehicle 2WD","Auto(AV-S6)","Front-Wheel Drive",6,3.5,"Premium",28,32
+"121",34782,"Lexus","RX 450h AWD",2015,"Small Sport Utility Vehicle 4WD","Auto(AV-S6)","All-Wheel Drive",6,3.5,"Premium",28,30
+"122",34806,"MINI","Cooper Convertible",2015,"Minicompact Cars","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,26
+"123",34867,"MINI","Cooper Convertible",2015,"Minicompact Cars","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",34,27
+"124",34811,"MINI","Cooper Countryman",2015,"Compact Cars","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",30,25
+"125",34875,"MINI","Cooper Countryman",2015,"Compact Cars","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",34,27
+"126",34801,"MINI","Cooper Coupe",2015,"Two Seaters","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",36,28
+"127",34862,"MINI","Cooper Coupe",2015,"Two Seaters","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",37,29
+"128",34812,"MINI","Cooper Paceman",2015,"Compact Cars","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",30,25
+"129",34876,"MINI","Cooper Paceman",2015,"Compact Cars","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",34,27
+"130",34800,"MINI","Cooper Roadster",2015,"Two Seaters","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,26
+"131",34861,"MINI","Cooper Roadster",2015,"Two Seaters","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",34,27
+"132",34807,"MINI","Cooper S Convertible",2015,"Minicompact Cars","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,25
+"133",34848,"MINI","Cooper S Convertible",2015,"Minicompact Cars","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",35,26
+"134",34813,"MINI","Cooper S Countryman",2015,"Compact Cars","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",32,25
+"135",34814,"MINI","Cooper S Countryman",2015,"Compact Cars","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",32,26
+"136",34815,"MINI","Cooper S Countryman All4",2015,"Compact Cars","Automatic (S6)","All-Wheel Drive",4,1.6,"Premium",30,23
+"137",34816,"MINI","Cooper S Countryman All4",2015,"Compact Cars","Manual 6-spd","All-Wheel Drive",4,1.6,"Premium",31,25
+"138",34803,"MINI","Cooper S Coupe",2015,"Two Seaters","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,25
+"139",34864,"MINI","Cooper S Coupe",2015,"Two Seaters","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",35,26
+"140",34817,"MINI","Cooper S Paceman",2015,"Compact Cars","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",32,25
+"141",34818,"MINI","Cooper S Paceman",2015,"Compact Cars","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",32,26
+"142",34819,"MINI","Cooper S Paceman All4",2015,"Compact Cars","Automatic (S6)","All-Wheel Drive",4,1.6,"Premium",30,23
+"143",34820,"MINI","Cooper S Paceman All4",2015,"Compact Cars","Manual 6-spd","All-Wheel Drive",4,1.6,"Premium",31,25
+"144",34802,"MINI","Cooper S Roadster",2015,"Two Seaters","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,25
+"145",34863,"MINI","Cooper S Roadster",2015,"Two Seaters","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",35,26
+"146",34821,"MINI","JCW Countryman All4",2015,"Compact Cars","Automatic (S6)","All-Wheel Drive",4,1.6,"Premium",30,23
+"147",34822,"MINI","JCW Countryman All4",2015,"Compact Cars","Manual 6-spd","All-Wheel Drive",4,1.6,"Premium",31,25
+"148",34823,"MINI","JCW Paceman All4",2015,"Compact Cars","Automatic (S6)","All-Wheel Drive",4,1.6,"Premium",30,23
+"149",34824,"MINI","JCW Paceman All4",2015,"Compact Cars","Manual 6-spd","All-Wheel Drive",4,1.6,"Premium",31,25
+"150",34808,"MINI","John Cooper Works Convertible",2015,"Minicompact Cars","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,25
+"151",34868,"MINI","John Cooper Works Convertible",2015,"Minicompact Cars","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",35,26
+"152",34804,"MINI","John Cooper Works Coupe",2015,"Two Seaters","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,25
+"153",34865,"MINI","John Cooper Works Coupe",2015,"Two Seaters","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",35,26
+"154",34805,"MINI","John Cooper Works Roadster",2015,"Two Seaters","Automatic (S6)","Front-Wheel Drive",4,1.6,"Premium",34,25
+"155",34866,"MINI","John Cooper Works Roadster",2015,"Two Seaters","Manual 6-spd","Front-Wheel Drive",4,1.6,"Premium",35,26
+"156",34646,"Mazda","6",2015,"Midsize Cars","Automatic (S6)","Front-Wheel Drive",4,2.5,"Regular",38,26
+"157",34647,"Mazda","6",2015,"Midsize Cars","Automatic (S6)","Front-Wheel Drive",4,2.5,"Regular",40,28
+"158",34648,"Mazda","6",2015,"Midsize Cars","Manual 6-spd","Front-Wheel Drive",4,2.5,"Regular",37,25
+"159",34652,"Mazda","CX-5 2WD",2015,"Small Sport Utility Vehicle 2WD","Automatic (S6)","Front-Wheel Drive",4,2,"Regular",32,26
+"160",34653,"Mazda","CX-5 2WD",2015,"Small Sport Utility Vehicle 2WD","Manual 6-spd","Front-Wheel Drive",4,2,"Regular",35,26
+"161",34654,"Mazda","CX-5 2WD",2015,"Small Sport Utility Vehicle 2WD","Automatic (S6)","Front-Wheel Drive",4,2.5,"Regular",32,25
+"162",34657,"Mazda","CX-5 4WD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","4-Wheel Drive",4,2,"Regular",31,25
+"163",34658,"Mazda","CX-5 4WD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","4-Wheel Drive",4,2.5,"Regular",30,24
+"164",34888,"Mazda","MX-5",2015,"Two Seaters","Manual 5-spd","Rear-Wheel Drive",4,2,"Premium",28,22
+"165",34889,"Mazda","MX-5",2015,"Two Seaters","Manual 6-spd","Rear-Wheel Drive",4,2,"Premium",28,21
+"166",34890,"Mazda","MX-5",2015,"Two Seaters","Automatic (S6)","Rear-Wheel Drive",4,2,"Premium",28,21
+"167",34897,"Mercedes-Benz","S550",2015,"Large Cars","Automatic 7-spd","Rear-Wheel Drive",8,4.7,"Premium",26,17
+"168",34899,"Mercedes-Benz","S550 4matic",2015,"Large Cars","Automatic 7-spd","4-Wheel Drive",8,4.7,"Premium",26,16
+"169",34898,"Mercedes-Benz","S63 AMG 4matic",2015,"Large Cars","Automatic 7-spd","4-Wheel Drive",8,5.5,"Premium",23,15
+"170",34878,"Mercedes-Benz","SLS AMG GT Coupe",2015,"Two Seaters","Auto(AM7)","Rear-Wheel Drive",8,6.2,"Premium",19,13
+"171",34879,"Mercedes-Benz","SLS AMG GT Roadster",2015,"Two Seaters","Auto(AM7)","Rear-Wheel Drive",8,6.2,"Premium",19,13
+"172",34644,"Nissan","GT-R",2015,"Subcompact Cars","Auto(AM6)","All-Wheel Drive",6,3.8,"Premium",23,16
+"173",34918,"Nissan","Leaf",2015,"Midsize Cars","Automatic (A1)","Front-Wheel Drive",NA,NA,"Electricity",101,126
+"174",34884,"Nissan","Versa",2015,"Compact Cars","Automatic (variable gear ratios)","Front-Wheel Drive",4,1.6,"Regular",40,31
+"175",34885,"Nissan","Versa",2015,"Compact Cars","Manual 5-spd","Front-Wheel Drive",4,1.6,"Regular",36,27
+"176",34886,"Nissan","Versa",2015,"Compact Cars","Automatic 4-spd","Front-Wheel Drive",4,1.6,"Regular",35,26
+"177",34856,"Porsche","918 Spyder",2015,"Two Seaters","Auto(AM-S7)","All-Wheel Drive",8,4.6,"Premium Gas or Electricity",24,20
+"178",34849,"Subaru","BRZ",2015,"Minicompact Cars","Manual 6-spd","Rear-Wheel Drive",4,2,"Premium",30,22
+"179",34850,"Subaru","BRZ",2015,"Minicompact Cars","Automatic (S6)","Rear-Wheel Drive",4,2,"Premium",34,25
+"180",34715,"Subaru","Forester AWD",2015,"Small Sport Utility Vehicle 4WD","Manual 6-spd","All-Wheel Drive",4,2.5,"Regular",29,22
+"181",34716,"Subaru","Forester AWD",2015,"Small Sport Utility Vehicle 4WD","Auto(AV-S6)","All-Wheel Drive",4,2.5,"Regular",32,24
+"182",34717,"Subaru","Forester AWD",2015,"Small Sport Utility Vehicle 4WD","Auto(AV-S8)","All-Wheel Drive",4,2,"Premium",28,23
+"183",34668,"Subaru","WRX",2015,"Compact Cars","Manual 6-spd","All-Wheel Drive",4,2,"Premium",28,21
+"184",34669,"Subaru","WRX",2015,"Compact Cars","Manual 6-spd","All-Wheel Drive",4,2.5,"Premium",23,17
+"185",34711,"Subaru","WRX",2015,"Compact Cars","Auto(AV-S8)","All-Wheel Drive",4,2,"Premium",25,19
+"186",34825,"Volkswagen","GTI",2015,"Compact Cars","Auto(AM-S6)","Front-Wheel Drive",4,2,"Premium",33,25
+"187",34826,"Volkswagen","GTI",2015,"Compact Cars","Manual 6-spd","Front-Wheel Drive",4,2,"Premium",34,25
+"188",34645,"Volvo","S60 AWD",2015,"Compact Cars","Automatic (S6)","All-Wheel Drive",5,2.5,"Regular",29,20
+"189",34670,"Volvo","S60 AWD",2015,"Compact Cars","Automatic (S6)","All-Wheel Drive",6,3,"Regular",28,19
+"190",34827,"Volvo","S60 FWD",2015,"Compact Cars","Automatic (S8)","Front-Wheel Drive",4,2,"Regular",37,25
+"191",34828,"Volvo","S60 FWD",2015,"Compact Cars","Automatic (S8)","Front-Wheel Drive",4,2,"Premium",35,24
+"192",34911,"Volvo","S60 PoleStar AWD",2015,"Compact Cars","Automatic (S6)","All-Wheel Drive",6,3,"Regular",27,18
+"193",34671,"Volvo","S80 AWD",2015,"Midsize Cars","Automatic (S6)","All-Wheel Drive",6,3,"Regular",28,19
+"194",34832,"Volvo","S80 FWD",2015,"Midsize Cars","Automatic (S8)","Front-Wheel Drive",4,2,"Regular",37,25
+"195",34672,"Volvo","V60 AWD",2015,"Small Station Wagons","Automatic (S6)","All-Wheel Drive",5,2.5,"Regular",29,20
+"196",34673,"Volvo","V60 AWD",2015,"Small Station Wagons","Automatic (S6)","All-Wheel Drive",6,3,"Regular",28,19
+"197",34838,"Volvo","V60 FWD",2015,"Small Station Wagons","Automatic (S8)","Front-Wheel Drive",4,2,"Regular",37,25
+"198",34915,"Volvo","V60 PoleStar AWD",2015,"Small Station Wagons","Automatic (S6)","All-Wheel Drive",6,3,"Regular",27,18
+"199",34659,"Volvo","XC60 AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","All-Wheel Drive",6,3,"Regular",24,17
+"200",34847,"Volvo","XC60 AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","All-Wheel Drive",6,3.2,"Regular",25,18
+"201",34840,"Volvo","XC60 FWD",2015,"Small Sport Utility Vehicle 2WD","Automatic (S8)","Front-Wheel Drive",4,2,"Regular",31,24
+"202",34842,"Volvo","XC60 FWD",2015,"Small Sport Utility Vehicle 2WD","Automatic (S8)","Front-Wheel Drive",4,2,"Premium",30,22
+"203",34660,"Volvo","XC70 AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","All-Wheel Drive",6,3,"Regular",24,17
+"204",34846,"Volvo","XC70 AWD",2015,"Small Sport Utility Vehicle 4WD","Automatic (S6)","All-Wheel Drive",6,3.2,"Regular",25,18
+"205",34841,"Volvo","XC70 FWD",2015,"Small Sport Utility Vehicle 2WD","Automatic (S8)","Front-Wheel Drive",4,2,"Regular",31,24
